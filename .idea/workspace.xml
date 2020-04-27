@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8d7c254-f131-4764-b97c-f790151aaa0f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" openResultsInEditor="true" userTempatePath="" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\school\java\maven_repository" />
+        <option name="mavenHome" value="F:/school/java/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="F:\school\java\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1amcHcHeKRpXYYjMegRJ7lXiMH3" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.ctgu.callCharge" />
+      <recent name="com.ctgu.excel" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.CallChargeTest.strongGeneral">
+    <configuration name="CallChargeTest.charge" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ctgu.callCharge.CallChargeTest.charge&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CallChargeTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.ctgu.callCharge.CallChargeTest.test&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="CallChargeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment03.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.callCharge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctgu.callCharge" />
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.callCharge.CallChargeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallChargeTest.charge" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment03.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.callCharge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctgu.callCharge" />
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.callCharge.CallChargeTest" />
+      <option name="METHOD_NAME" value="charge(int,java.lang.String,java.lang.String,boolean,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CallChargeTest.strongGeneral" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="experiment03.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ctgu.callCharge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.ctgu.callCharge" />
+      <option name="MAIN_CLASS_NAME" value="com.ctgu.callCharge.CallChargeTest" />
+      <option name="METHOD_NAME" value="strongGeneral(int,java.lang.String,java.lang.String,boolean,double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.43" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment />
+      <server-settings>
+        <option name="AJP_PORT" value="1099" />
+        <option name="BASE_DIRECTORY_NAME" value="_Default_(Template)_Project" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="52521" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.CallChargeTest.charge" />
+      <item itemvalue="Gradle.CallChargeTest.test" />
+      <item itemvalue="JUnit.CallChargeTest" />
+      <item itemvalue="JUnit.CallChargeTest.charge" />
+      <item itemvalue="JUnit.CallChargeTest.strongGeneral" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CallChargeTest.strongGeneral" />
+        <item itemvalue="JUnit.CallChargeTest.charge" />
+        <item itemvalue="JUnit.CallChargeTest" />
+        <item itemvalue="Gradle.CallChargeTest.charge" />
+        <item itemvalue="Gradle.CallChargeTest.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d7c254-f131-4764-b97c-f790151aaa0f" name="Default Changelist" comment="" />
+      <created>1587344122303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587344122303</updated>
+      <workItem from="1587344130321" duration="10262000" />
+      <workItem from="1587601753605" duration="1219000" />
+      <workItem from="1587605840433" duration="833000" />
+      <workItem from="1587606700585" duration="10318000" />
+      <workItem from="1587706521246" duration="12080000" />
+      <workItem from="1587782854604" duration="19130000" />
+      <workItem from="1587866835559" duration="12923000" />
+      <workItem from="1587949448123" duration="15143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587955294902">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1587955294902" />
+    <state x="525" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1587911622550">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="525" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1440.860@0.0.1440.860" timestamp="1587911622550" />
+    <state x="72" y="199" key="#xdebugger.evaluate" timestamp="1587965151557">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="72" y="199" key="#xdebugger.evaluate/0.0.1440.860@0.0.1440.860" timestamp="1587965151557" />
+    <state width="1396" height="256" key="GridCell.Tab.0.bottom" timestamp="1587975807125">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="256" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587975807125" />
+    <state width="1396" height="256" key="GridCell.Tab.0.center" timestamp="1587975807125">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="256" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1587975807125" />
+    <state width="1396" height="256" key="GridCell.Tab.0.left" timestamp="1587975807125">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="256" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1587975807125" />
+    <state width="1396" height="256" key="GridCell.Tab.0.right" timestamp="1587975807125">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="256" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1587975807125" />
+    <state width="1396" height="307" key="GridCell.Tab.1.bottom" timestamp="1587965482617">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="307" key="GridCell.Tab.1.bottom/0.0.1440.860@0.0.1440.860" timestamp="1587965482617" />
+    <state width="1396" height="307" key="GridCell.Tab.1.center" timestamp="1587965482616">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="307" key="GridCell.Tab.1.center/0.0.1440.860@0.0.1440.860" timestamp="1587965482616" />
+    <state width="1396" height="307" key="GridCell.Tab.1.left" timestamp="1587965482616">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="307" key="GridCell.Tab.1.left/0.0.1440.860@0.0.1440.860" timestamp="1587965482616" />
+    <state width="1396" height="307" key="GridCell.Tab.1.right" timestamp="1587965482616">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1396" height="307" key="GridCell.Tab.1.right/0.0.1440.860@0.0.1440.860" timestamp="1587965482616" />
+    <state x="221" y="72" key="SettingsEditor" timestamp="1587911780006">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="221" y="72" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1587911780006" />
+    <state x="120" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1587644497146">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="120" y="25" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.860@0.0.1440.860" timestamp="1587644497146" />
+    <state x="491" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1587716365597">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="491" y="133" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1440.860@0.0.1440.860" timestamp="1587716365597" />
+    <state x="532" y="257" key="export.test.results" timestamp="1587975755341">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="532" y="257" key="export.test.results/0.0.1440.860@0.0.1440.860" timestamp="1587975755341" />
+  </component>
+</project>
